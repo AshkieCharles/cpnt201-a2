@@ -1,4 +1,4 @@
-# Best Fast Food
+# Best Fast Food in Calgary
 
 We will be ranking the best fast food places!
 
