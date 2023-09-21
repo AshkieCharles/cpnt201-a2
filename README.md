@@ -8,3 +8,5 @@ We will be ranking the best fast food places.
 - [x] Rate
 
 [Mcdonalds](https://www.mcdonalds.com/ca/en-ca.html)
+
+Some of the best places are Mcdonald's, KFC and Wendy's. 
