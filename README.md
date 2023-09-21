@@ -1,4 +1,4 @@
-# Best Fast Food
+# Best Fast Foo
 
 We will be ranking the best fast food places!
 
